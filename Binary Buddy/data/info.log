@@ -1,0 +1,73 @@
+
+Operation: ALLOCATION ||	Date TimeStamp:Wed Jan 18 17:01:57 2023
+
+start:0	|	size:4	|	Value:4	|	rem:0	|	End:4
+start:4	|	size:4	|	Value:0	|	rem:0	|	End:8
+
+Operation: ALLOCATION ||	Date TimeStamp:Wed Jan 18 20:53:42 2023
+
+start:0	|	size:4	|	Value:4	|	rem:0	|	End:4
+start:4	|	size:4	|	Value:0	|	rem:0	|	End:8
+
+Operation: ALLOCATION ||	Date TimeStamp:Wed Jan 18 21:06:22 2023
+
+start:0	|	size:32	|	Value:23	|	rem:9	|	End:32
+start:32	|	size:32	|	Value:0	|	rem:0	|	End:64
+start:64	|	size:64	|	Value:0	|	rem:0	|	End:128
+start:128	|	size:128	|	Value:0	|	rem:0	|	End:256
+start:256	|	size:256	|	Value:0	|	rem:0	|	End:512
+start:512	|	size:512	|	Value:0	|	rem:0	|	End:1024
+start:1024	|	size:1024	|	Value:0	|	rem:0	|	End:2048
+Operation: ALLOCATION
+start:0	|	size:32	|	Value:23	|	rem:9	|	End:32
+start:32	|	size:32	|	Value:23	|	rem:9	|	End:64
+start:64	|	size:64	|	Value:0	|	rem:0	|	End:128
+start:128	|	size:128	|	Value:0	|	rem:0	|	End:256
+start:256	|	size:256	|	Value:0	|	rem:0	|	End:512
+start:512	|	size:512	|	Value:0	|	rem:0	|	End:1024
+start:1024	|	size:1024	|	Value:0	|	rem:0	|	End:2048
+
+Operation: ALLOCATION ||	Date TimeStamp:Wed Jan 18 21:06:22 2023
+
+start:0	|	size:32	|	Value:23	|	rem:9	|	End:32
+start:32	|	size:32	|	Value:23	|	rem:9	|	End:64
+start:64	|	size:32	|	Value:23	|	rem:9	|	End:96
+start:96	|	size:32	|	Value:0	|	rem:0	|	End:128
+start:128	|	size:128	|	Value:0	|	rem:0	|	End:256
+start:256	|	size:256	|	Value:0	|	rem:0	|	End:512
+start:512	|	size:512	|	Value:0	|	rem:0	|	End:1024
+start:1024	|	size:1024	|	Value:0	|	rem:0	|	End:2048
+Operation: ALLOCATION
+start:0	|	size:32	|	Value:23	|	rem:9	|	End:32
+start:32	|	size:32	|	Value:23	|	rem:9	|	End:64
+start:64	|	size:32	|	Value:23	|	rem:9	|	End:96
+start:96	|	size:32	|	Value:0	|	rem:0	|	End:128
+start:128	|	size:128	|	Value:0	|	rem:0	|	End:256
+start:256	|	size:256	|	Value:0	|	rem:0	|	End:512
+start:512	|	size:512	|	Value:456	|	rem:56	|	End:1024
+start:1024	|	size:1024	|	Value:0	|	rem:0	|	End:2048
+
+Operation: DELLOCATION ||	Date TimeStamp:Wed Jan 18 21:06:22 2023
+
+start:0	|	size:32	|	Value:0	|	rem:0	|	End:32
+start:32	|	size:32	|	Value:23	|	rem:9	|	End:64
+start:64	|	size:32	|	Value:23	|	rem:9	|	End:96
+start:96	|	size:32	|	Value:0	|	rem:0	|	End:128
+start:128	|	size:128	|	Value:0	|	rem:0	|	End:256
+start:256	|	size:256	|	Value:0	|	rem:0	|	End:512
+start:512	|	size:512	|	Value:456	|	rem:56	|	End:1024
+start:1024	|	size:1024	|	Value:0	|	rem:0	|	End:2048
+
+Operation: ALLOCATION ||	Date TimeStamp:Wed Jan 18 21:15:24 2023
+
+start:0	|	size:4	|	Value:3	|	rem:1	|	End:4
+start:4	|	size:4	|	Value:0	|	rem:0	|	End:8
+start:8	|	size:8	|	Value:0	|	rem:0	|	End:16
+start:16	|	size:16	|	Value:0	|	rem:0	|	End:32
+start:32	|	size:32	|	Value:0	|	rem:0	|	End:64
+start:64	|	size:64	|	Value:0	|	rem:0	|	End:128
+start:128	|	size:128	|	Value:0	|	rem:0	|	End:256
+start:256	|	size:256	|	Value:0	|	rem:0	|	End:512
+start:512	|	size:512	|	Value:0	|	rem:0	|	End:1024
+start:1024	|	size:1024	|	Value:0	|	rem:0	|	End:2048
+start:2048	|	size:2048	|	Value:0	|	rem:0	|	End:4096
